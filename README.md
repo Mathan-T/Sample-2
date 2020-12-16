@@ -15,3 +15,5 @@ Things learned about webhosting:
 2. hosting
 3. deploy
 4. checking all the details about the site deployment & build kinda stuffs.
+
+Especially little bit of vs code extensions & shortcuts!
